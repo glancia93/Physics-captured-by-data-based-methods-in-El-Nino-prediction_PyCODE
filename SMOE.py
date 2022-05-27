@@ -11,7 +11,6 @@ from sklearn.metrics import roc_auc_score
 from scipy.stats import norm
 from scipy.interpolate import CubicSpline
 from scipy.signal import argrelextrema, impulse, hamming, exponential, gaussian, boxcar, tukey
-from scipy.special import jv, j0, j1, gamma, eval_hermite
 from scipy.interpolate import interp1d
 
 ### import tensorflow
