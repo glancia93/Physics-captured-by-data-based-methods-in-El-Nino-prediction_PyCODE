@@ -3,7 +3,7 @@ Repository with the modules created for the paper " Physics captured by data-bas
 The repository contains the following three modules:
 
 ## 1. SMOE.py
-Salient Map Order Equivalent (...) is here implemented.
+Salient Map Order Equivalent (Mundhenk et al. 2019) is here implemented.
 This code has been applied to evaluate the saliency maps of the CNN model.
 
 ## 2. SUBCODER.py
